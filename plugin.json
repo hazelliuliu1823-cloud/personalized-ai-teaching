@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "personalized-ai-teaching",
+  "version": "1.3.3",
+  "description": "K12 AI个性化教学与家庭教育方法扩展 Skill：融合AI时代教学观点、基础教学能力和孩子反馈，支持家庭自主补充方法。",
+  "author": {
+    "name": "hazelliuliu1823-cloud"
+  },
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "category": "Productivity",
+        "composerIcon": "./assets/icon.svg",
+        "defaultPrompt": "使用AI个性化教学引擎，帮助孩子理解这个学习问题；结合内置教学基线和孩子的实际反馈选择讲解或引导方式。需要时我也可以提供教育者资料，请先研究、提炼，再由我选择要试用的方法。",
+        "developerName": "课外生枝",
+        "displayName": "AI个性化教学引擎",
+        "logo": "./assets/icon.svg",
+        "longDescription": "在通用 LLM 的学科能力上融合AI时代教学观点与方法、基础教育能力和家庭选定的方法，支持 K12 学习引导、反馈调整与资料提炼。",
+        "shortDescription": "K12个性化学习辅导、可选家庭教法与动态反馈"
+      }
+    }
+  }
+}

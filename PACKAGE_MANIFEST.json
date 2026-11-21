@@ -1,0 +1,111 @@
+{
+  "name": "personalized-ai-teaching",
+  "version": "1.3.3",
+  "file_count_excluding_manifest": 26,
+  "files": [
+    {
+      "path": ".codex-plugin/plugin.json",
+      "sha256": "4fbf84793ad8c956ff32787c375f3ffe2f73e6e4e3c34fd279cf75c56e1b53fe"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "c0ae939cd5a857d548befde4d60a5bf1f8aa42cef301f7d4ae5883ebec438193"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "e1a9b7f52788d8169d30059d0240599928614f4f8393aed1d90672714e2889fa"
+    },
+    {
+      "path": "README.md",
+      "sha256": "cc1188fbb2f86166c39f03a2b9c067bf8b82992a68fd73fbfa5d9c9e757b137c"
+    },
+    {
+      "path": "assets/icon.svg",
+      "sha256": "36dacbb1083a34e8423d26a5cf88591376c9679a40bff5eb397562a7e3947921"
+    },
+    {
+      "path": "plugin.json",
+      "sha256": "15f675e369ffc5851f4bff897377dbc78ce2c8453306c5b11e1f44d078090070"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/LICENSE",
+      "sha256": "c0ae939cd5a857d548befde4d60a5bf1f8aa42cef301f7d4ae5883ebec438193"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/SKILL.md",
+      "sha256": "7f60266890baac491663f22c215d998b6c8fcf7115dc6dad5093ce7acdb2a552"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/agents/openai.yaml",
+      "sha256": "f45fbe551d0326dfc66a9f3a6ee1075aa31191ef30822e8676c5c3ec3cf109fc"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/assets/icon.svg",
+      "sha256": "36dacbb1083a34e8423d26a5cf88591376c9679a40bff5eb397562a7e3947921"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/ai-era-m1.md",
+      "sha256": "bda46464680856faa305d6b18644f31c4194bf3d8c76d1915fe41c3e73ddb280"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/ai-era-m2.md",
+      "sha256": "c1749d513a276a56d6c92e8b489aa3804501c95dd9c7732dc6dfdb31db73ce6f"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/ai-era-m3.md",
+      "sha256": "515949ba7dce378caa10cbc71149f775bbecc298e7804a5cff926140abc065b0"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/ai-era-m4.md",
+      "sha256": "652f3a2b1b5cbf3613da2abbcf6a691ff480b43a989eb3d2c3bbf884097fc4c7"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/ai-era-m5.md",
+      "sha256": "fc8f346864f707fb03ec17cafdd25fa986fbfc711a7e43370000027f63856f60"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/ai-era-teaching-methods.md",
+      "sha256": "8cc1f90ea74238b46b208df38bf9df27c17511326f127924654dc4364b29251e"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/evaluation.md",
+      "sha256": "9c596311bd0ebff5f3db7f5fab8c04e1deebbcd10198fd16948ae5fe59f7f606"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/family-methods.md",
+      "sha256": "e14590fb9cdc180b4fb81ed9924589670a2f3ecc614d3756c0e2b67201102c8e"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/fundamental-education.md",
+      "sha256": "2e179581a14909534dc4af7f493900728b6f37777b6d00cca61528ba369dfde3"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/interaction-router.md",
+      "sha256": "111defccbc84a22eb7eaabd0b416304a22c5414843cdfa6e296af716fdb33946"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/method-extraction.md",
+      "sha256": "8173c91cbe93fb63b468b1a6ed4c31993dafdb83d6fdef31cd47d09e9bf22bb2"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/parent-prompt-medium.txt",
+      "sha256": "4fe1822958910caccf176e9eb634684b8eb3aa1ad5ea82d678f5c4a20be8bf16"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/references/parent-prompt.md",
+      "sha256": "3f8fc0f04439be05abfa12601cb735c1084b28c69fb530c6cab7cd913ffeff7a"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/tests/cases.json",
+      "sha256": "3262722d68b1eda8fa6515545ba0bb76f7e6351f935891b62f623e7fe0d6b112"
+    },
+    {
+      "path": "skills/personalized-ai-teaching/tests/validate_package.py",
+      "sha256": "fb0ede7d9033818cabb2855da36dd36fc65cf4eb40711bbdda5f4276515c901b"
+    },
+    {
+      "path": "tools/generate_ai_era_shards.py",
+      "sha256": "865dfb2c57be53b1582c6ab0eb04cdda60cb986a3526fd8787002eed0a964fe9"
+    }
+  ]
+}
